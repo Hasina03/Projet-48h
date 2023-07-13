@@ -1,0 +1,92 @@
+.cadre{
+    border: 1px solid black;
+    border-radius: 4%;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    height: 603px;
+    width: 438px;
+    border: none;
+    background-color: #72d77699;
+    margin-right: 35%;
+}
+body{
+    background-image: url("../img/font1.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    
+   
+}
+button{
+    margin: 0;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    border: none;
+    margin-top: -14px;
+    background-color: rgb(83 124 76);
+    padding: .375rem .75rem;
+    margin-bottom: 50px;
+    margin-right: -6px;
+    margin-top: 50px;
+    color: white;
+  
+  }
+  .sign{
+    margin-left: 6%;
+    color: white;
+  }
+ 
+input[type="text" i] {
+    padding: 1px 2px;
+    width: 269px;
+    height: 41px;
+    border-radius: 10px;
+    border: none;
+    margin-top: -40px;
+}
+input[type="nom" i] {
+    padding: 1px 2px;
+    width: 269px;
+    height: 41px;
+    border-radius: 10px;
+    border: none;
+   
+    margin-top: 25px;
+}
+input[type="date" i] {
+    padding: 1px 2px;
+    width: 269px;
+    height: 41px;
+    border-radius: 10px;
+    border: none;
+   
+    margin-top: 25px;
+}
+input[type="password" i] {
+    padding: 1px 2px;
+    width: 269px;
+    height: 41px;
+    border-radius: 10px;
+    border: none;
+   
+    margin-top: 25px;
+}
+input[type="email" i] {
+    padding: 1px 2px;
+    width: 269px;
+    height: 41px;
+    border-radius: 10px;
+    border: none;
+   
+    margin-top: 25px;
+}
+h1{
+    color: #30873a;
+    font-family: Arial, sans-serif;
+    font-size: 57px;
+}
+h2{
+    color:#30873a;
+    font-size: 50px;
+}
